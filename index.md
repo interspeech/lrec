@@ -227,6 +227,5 @@ Recent work in spontaneous text-to-speech (TTS) has achieved naturalistic synthe
             <source src="./audio/dialogue_6_joe_2_creak.wav" type="audio/wav" />
           </audio>
         </td>
-    </tr><tr>
-  </tbody>
+    </tr>
 </table>
