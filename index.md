@@ -209,7 +209,7 @@ Recent work in spontaneous text-to-speech (TTS) has achieved naturalistic synthe
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_no_creak_full.wav" type="audio/wav" />
+            <source src="./audio/dialogue_6_no_creak_full.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
@@ -219,7 +219,7 @@ Recent work in spontaneous text-to-speech (TTS) has achieved naturalistic synthe
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_6_no_creak_finalwav" type="audio/wav" />
+            <source src="./audio/dialogue_6_no_creak_final.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
