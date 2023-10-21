@@ -98,7 +98,7 @@ Recent work in spontaneous text-to-speech (TTS) has achieved naturalistic synthe
       <th class="tg-0pky">Stimulus</th>
       <th class="tg-0pky">No creak</th>
       <th class="tg-0pky">Non-terminal creak</th>
-      <th class="tg-0pky">No creak creak</th>
+      <th class="tg-0pky">No creak</th>
       <th class="tg-0pky">Terminal creak</th>
     </tr>
   </thead>
@@ -109,22 +109,22 @@ Recent work in spontaneous text-to-speech (TTS) has achieved naturalistic synthe
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_2_joe_1_no.wav" type="audio/wav" />
+            <source src="./audio/dialogue_2_no_creak_full.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_2_joe_1_creak.wav" type="audio/wav" />
+            <source src="./audio/dialogue_2_creak_full.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_2_joe_2_no.wav" type="audio/wav" />
+            <source src="./audio/dialogue_2_no_creak_final.wav" type="audio/wav" />
           </audio>
         </td>
          <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_2_joe_2_creak.wav" type="audio/wav" />
+            <source src="./audio/dialogue_2_creak_final.wav" type="audio/wav" />
           </audio>
         </td>
     </tr>
@@ -134,22 +134,22 @@ Recent work in spontaneous text-to-speech (TTS) has achieved naturalistic synthe
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_3_joe_1_no.wav" type="audio/wav" />
+            <source src="./audio/dialogue_3_no_creak_full.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_3_joe_1_creak.wav" type="audio/wav" />
+            <source src="./audio/dialogue_3_creak_full.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_3_joe_2_no.wav" type="audio/wav" />
+            <source src="./audio/dialogue_3_no_creak_final.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_3_joe_2_creak.wav" type="audio/wav" />
+            <source src="./audio/dialogue_3_creak_final.wav" type="audio/wav" />
           </audio>
         </td>
     </tr>
@@ -159,22 +159,22 @@ Recent work in spontaneous text-to-speech (TTS) has achieved naturalistic synthe
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_4_joe_1_no.wav" type="audio/wav" />
+            <source src="./audio/dialogue_4_no_creak_full.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_4_joe_1_creak.wav" type="audio/wav" />
+            <source src="./audio/dialogue_4_creak_full.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_4_joe_2_no.wav" type="audio/wav" />
+            <source src="./audio/dialogue_4_no_creak_final.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_4_joe_2_creak.wav" type="audio/wav" />
+            <source src="./audio/dialogue_4_creak_final.wav" type="audio/wav" />
           </audio>
         </td>
     </tr>
@@ -184,22 +184,22 @@ Recent work in spontaneous text-to-speech (TTS) has achieved naturalistic synthe
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_5_joe_1_no.wav" type="audio/wav" />
+            <source src="./audio/dialogue_5_no_creak_full.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_5_joe_1_creak.wav" type="audio/wav" />
+            <source src="./audio/dialogue_5_creak_full.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_5_joe_2_no.wav" type="audio/wav" />
+            <source src="./audio/dialogue_5_no_creak_final.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_5_joe_2_creak.wav" type="audio/wav" />
+            <source src="./audio/dialogue_5_creak_final.wav" type="audio/wav" />
           </audio>
         </td>
     </tr>
@@ -209,22 +209,22 @@ Recent work in spontaneous text-to-speech (TTS) has achieved naturalistic synthe
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_6_joe_1_no.wav" type="audio/wav" />
+            <source src="./audio/dialogue_no_creak_full.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_6_joe_1_creak.wav" type="audio/wav" />
+            <source src="./audio/dialogue_6_creak_full.wav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_6_joe_2_no.wav" type="audio/wav" />
+            <source src="./audio/dialogue_6_no_creak_finalwav" type="audio/wav" />
           </audio>
         </td>
         <td class="tg-0pky">
           <audio id="audio-small" controls>
-            <source src="./audio/dialogue_6_joe_2_creak.wav" type="audio/wav" />
+            <source src="./audio/dialogue_6_creak_final.wav" type="audio/wav" />
           </audio>
         </td>
     </tr>
