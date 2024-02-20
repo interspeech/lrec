@@ -385,3 +385,6 @@ Recent work in spontaneous text-to-speech (TTS) has achieved naturalistic synthe
     </tr>
   </tbody>
 </table>
+
+## Model and further stimuli 
+In case you are interested in replicating this experiment, feel free to reach out at my KTH email in order to get access to the model and the further stimuli.  
