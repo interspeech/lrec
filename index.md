@@ -229,4 +229,104 @@ Recent work in spontaneous text-to-speech (TTS) has achieved naturalistic synthe
           </audio>
         </td>
     </tr>
+    <tr>
+            <td class="tg-0pky">
+                6
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_7_no_creak_full.wav" type="audio/wav" />
+              </audio>
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_7_creak_full.wav" type="audio/wav" />
+              </audio>
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_7_no_creak_final.wav" type="audio/wav" />
+              </audio>
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_7_creak_final.wav" type="audio/wav" />
+              </audio>
+            </td>
+        </tr>
+    <tr>
+            <td class="tg-0pky">
+                7
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_8_no_creak_full.wav" type="audio/wav" />
+              </audio>
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_8_creak_full.wav" type="audio/wav" />
+              </audio>
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_8_no_creak_final.wav" type="audio/wav" />
+              </audio>
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_8_creak_final.wav" type="audio/wav" />
+              </audio>
+            </td>
+        </tr>
+    <tr>
+            <td class="tg-0pky">
+                8
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_9_no_creak_full.wav" type="audio/wav" />
+              </audio>
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_9_creak_full.wav" type="audio/wav" />
+              </audio>
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_9_no_creak_final.wav" type="audio/wav" />
+              </audio>
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_9_creak_final.wav" type="audio/wav" />
+              </audio>
+            </td>
+        </tr>
+    <tr>
+            <td class="tg-0pky">
+                9
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_10_no_creak_full.wav" type="audio/wav" />
+              </audio>
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_10_creak_full.wav" type="audio/wav" />
+              </audio>
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_10_no_creak_final.wav" type="audio/wav" />
+              </audio>
+            </td>
+            <td class="tg-0pky">
+              <audio id="audio-small" controls>
+                <source src="./audio/dialogue_10_creak_final.wav" type="audio/wav" />
+              </audio>
+            </td>
+        </tr>
 </table>
