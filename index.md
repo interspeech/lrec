@@ -92,6 +92,7 @@ audio {
 Recent work in spontaneous text-to-speech (TTS) has achieved naturalistic synthesis of creaky voice, a voice quality that has many pragmatic as well as paralinguistic functions. In this paper, we investigate the perception of two types of synthesized creaky voice by non-expert listeners. We annotated a spontaneous speech corpus using an automatic creaky phonation detection tool, and a Tacotron 2 TTS engine that was modified with a creaky phonation embedding with which we are capable of synthesizing a creaky voice style. We performed two subjective listening experiments in which the participants rated non-positional creak as sounding less certain, less positive, and more turn final, while positional creak at the end of an utterance was rated as more turn final than the stimuli synthesized with modal phonation. We also performed an objective analysis of the two types of creaky and modal phonation using a creak detection tool, which indicated significant differences in the level of creaky phonation present for each phonation type.
 
 # Stimuli for the Subjective Listening Experiments
+
 <table class="tg">
   <thead>
     <tr>
